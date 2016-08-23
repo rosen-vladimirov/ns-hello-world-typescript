@@ -1,0 +1,28 @@
+{
+	"ProjectName": "ns-hello-world-typescript",
+	"ProjectGuid": "{c67c14c5-99c9-42ee-857c-def47176ecd8}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.nshelloworldtypescript",
+	"DisplayName": "ns-hello-world-typescript",
+	"Author": "",
+	"Description": "ns-hello-world-typescript",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+	"AndroidPermissions": [
+		"android.permission.INTERNET"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "true",
+	"iOSStatusBarStyle": "Default",
+	"FrameworkVersion": "2.1.0",
+	"Framework": "NativeScript"
+}
